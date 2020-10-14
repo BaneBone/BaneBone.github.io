@@ -54,3 +54,16 @@ list = {
 print(plus(int(list["a"]), int(list["b"])))
 #result:30
 ```
+---
+```Python
+def str_check(x, y, c):
+  if(type(x) is str and type(y) is str and type(c) is str):
+    return "Yes!"
+  else:
+    return "Sorry..."
+    
+print(str_check("이거", "문자", "열"))
+#result:"Yes!"
+print(str_check(1, True,"네"))
+#result:"Sorry..."
+```
