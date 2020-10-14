@@ -40,6 +40,7 @@ answer()
 #result:"Answer:yes"
 answer("no")
 #result:"Answer:no"
+```
 ---
 ```Python
 def plus(a, b):
