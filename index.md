@@ -51,4 +51,5 @@ list = {
 }
 
 print(plus(int(list["a"]), int(list["b"])))
+#result:30
 ```
