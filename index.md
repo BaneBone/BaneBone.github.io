@@ -13,7 +13,8 @@
 ---
 ## 배우고 있는 과정
 
-- Python
+> Python
+>> 출력
 ```Python
 print("저는 %s를 좋아해요. % "딸기")
 print("저는 {}를 좋아해요.".format("딸기"))
