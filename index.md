@@ -1,6 +1,6 @@
 # BaneBone의 깃허브 페이지
 ---
-## 연락처
+# 연락처
 <p align="center">
   <a href="https://open.kakao.com/o/saDgbABc">
     <img src="https://img.shields.io/badge/-%20%EA%B9%83%ED%97%88%EB%B8%8C-lightgrey">
