@@ -67,3 +67,14 @@ print(str_check("이거", "문자", "열"))
 print(str_check(1, True,"네"))
 #result:"Sorry..."
 ```
+---
+```Python
+names = ("a", "b", "c")
+for name in names:
+  print(name)
+#result:"a" "b" "c"
+
+for example in "string":
+  print(example)
+#result:"s" "t" "r" "i" "n" "g"
+```
