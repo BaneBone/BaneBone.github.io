@@ -40,3 +40,15 @@ answer()
 #result:"Answer:yes"
 answer("no")
 #result:"Answer:no"
+---
+```Python
+def plus(a, b):
+  return a + b
+  
+list = {
+  "a":"10",
+  "b":"20"
+}
+
+print(plus(int(list["a"]), int(list["b"])))
+```
