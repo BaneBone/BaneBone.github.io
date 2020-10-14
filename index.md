@@ -15,4 +15,8 @@ print("저는 %s를 좋아해요. % "딸기")
 print("저는 {}를 좋아해요.".format("딸기"))
 print("저는 {0}를 좋아해요.".format("딸기"))
 print("저는 {food}를 좋아해요.".format(food = "딸기"))
+food = "딸기"
+print(f"저는 {food}를 좋아해요.")
+
+//result:"저는 딸기를 좋아해요."
 ```
