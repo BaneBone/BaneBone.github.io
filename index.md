@@ -23,3 +23,11 @@ print(f"저는 {food}를 좋아해요.")
 
 #result:"저는 딸기를 좋아해요."
 ```
+---
+```Python
+def say_hello():
+  print("hello")
+
+say_hello()
+#result:"hello"
+```
