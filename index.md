@@ -14,7 +14,7 @@
 
 ## 배우고 있는 과정
 ```Python
-print("저는 %s를 좋아해요. % "딸기")
+print("저는 %s를 좋아해요." % "딸기")
 print("저는 {}를 좋아해요.".format("딸기"))
 print("저는 {0}를 좋아해요.".format("딸기"))
 print("저는 {food}를 좋아해요.".format(food = "딸기"))
@@ -34,7 +34,7 @@ say_hello()
 ---
 ```Python
 def answer(argument = "yes"):
-  print("Answer: {argument}")
+  print("Answer:" + argument)
 
 answer()
 #result:"Answer:yes"
