@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/%20-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85-green">
   </a>
 </p>
-
+---
+## Python
 ```Python
 print("저는 %s를 좋아해요. % "딸기")
 print("저는 {}를 좋아해요.".format("딸기"))
