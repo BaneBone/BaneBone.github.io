@@ -31,3 +31,12 @@ def say_hello():
 say_hello()
 #result:"hello"
 ```
+---
+```Python
+def answer(argument = "yes"):
+  print("Answer: {argument}")
+
+answer()
+#result:"Answer:yes"
+answer("no")
+#result:"Answer:no"
