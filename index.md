@@ -11,7 +11,13 @@
 </p>
 
 ---
-
+## 공유 플러그인
+<p align="center">
+  <a href="https://band.us/band/69950426/post/33258">
+    <img src="https://img.shields.io/badge/%20-%EB%9E%9C%EB%8D%A4%EC%B6%94%EC%B2%A8-orange">
+  </a>
+</p>
+---
 ## 배우고 있는 과정
 ```Python
 print("저는 %s를 좋아해요." % "딸기")
